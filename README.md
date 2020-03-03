@@ -1,3 +1,6 @@
+# Geolocation / Season Tutorial with Stephen Grider .. Check Live Version from [HERE](https://geolocation-seasons.netlify.com/)
+## or Download the Repo and Follow the Instructions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
