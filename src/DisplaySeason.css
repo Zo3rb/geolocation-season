@@ -1,0 +1,33 @@
+.display-season {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-season h1 {
+  font-size: 3em;
+  color: black;
+}
+
+.display-season.winter {
+  background-color: aliceblue;
+  color: blue;
+}
+
+.display-season.summer {
+  background-color: orange;
+  color: red;
+}
+
+.display-season .icon-left {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.display-season .icon-right {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
